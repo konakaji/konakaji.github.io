@@ -1,8 +1,8 @@
 # Image, name, profession in the sidebar
 
 image: /assets/images/author-image.jpg
-name: John Doe
-profession: A Web Developer
+name: Kouhei Nakaji Ph.D.
+profession: Researcher/Developer
 email: john@doe.com # The contact form submissions will be received in this email address.
 
 #   ,-----.       ,--.                   ,---.  ,--.
@@ -13,15 +13,15 @@ email: john@doe.com # The contact form submissions will be received in this emai
 #
 # There are 5 color schemes to choose from.
 # The one at the bottom takes precedence.
-color-scheme: orange
 color-scheme: pink
 color-scheme: purple
 color-scheme: blue
 color-scheme: green
+color-scheme: orange
 
 
 # Set this to false in production
-color-scheme-changer-widget: true
+color-scheme-changer-widget: false
 
 
 
@@ -43,21 +43,17 @@ menu:
 # Social icons in the sidebar
 # use font awesome icon code in the 'icon:' value
 social:
-  facebook:
-       icon: fa-facebook-square
-       link: https://facebook.com
-
   twitter:
       icon: fa-twitter
-      link: https://twitter.com
+      link: https://twitter.com/nakajijiji
 
   linkedin:
       icon: fa-linkedin
-      link: https://linkedin.com
+      link: https://www.linkedin.com/in/kouhei-n-95a90683/
 
   github:
       icon: fa-github
-      link: https://github.com
+      link: https://github.com/konakaji
 
 
 
@@ -91,4 +87,4 @@ expertise:
     color: rgb(230, 133, 172)
 
 
-buy-button: true
+buy-button: false

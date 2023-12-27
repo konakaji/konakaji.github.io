@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-09T21:07:50-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kouhei Nakaji</title><subtitle>Blackcurrant is a minimal theme to show off your skills online.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-09T19:05:59-05:00</published><updated>2023-12-09T19:05:59-05:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-27T13:52:35-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kouhei Nakaji</title><subtitle>Blackcurrant is a minimal theme to show off your skills online.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-09T19:05:59-05:00</published><updated>2023-12-09T19:05:59-05:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -412,13 +412,6 @@ var myChart = new Chart(ctx, {
 &lt;p&gt;With all these goodness, you will also get full support for 3 months.&lt;/p&gt;
 
 &lt;h2 id=&quot;buy-kouhei-nakaji-jekyll-theme&quot;&gt;Buy Kouhei Nakaji Jekyll Theme&lt;/h2&gt;
-
-&lt;div class=&quot;d-md-flex py-3&quot;&gt;
-  &lt;a href=&quot;/blog/blackcurrant/&quot; class=&quot;btn btn-primary btn-lg mr-md-4 mb-2&quot; data-aos=&quot;zoom-in&quot;&gt;About Kouhei Nakaji&lt;/a&gt;
-  &lt;form&gt;
-    &lt;script src=&quot;https://checkout.razorpay.com/v1/payment-button.js&quot; data-payment_button_id=&quot;pl_GFIR590yM0seg4&quot;&gt;&lt;/script&gt;
-  &lt;/form&gt;
-&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;We provide 3 months support.&lt;/strong&gt;&lt;/p&gt;
 
