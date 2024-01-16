@@ -5,4 +5,32 @@ layout: page
 title: About
 permalink: /
 ---
-Hoge
+
+# Biography
+I am a postdoctoral researcher at the University of Toronto's Matter Lab (Alan Aspuru-Guzik group), specializing in quantum computing and its applications. 
+I began my research career at Keio University and the Keio Quantum Computing Center in 2020, subsequently earning my Ph.D. in 2022. 
+I possess strong expertise in machine learning engineering as well, backed by over five years of experience in the industry prior to my academic career.
+
+
+# My recent researches
+Quantum computing devices have been developed rapidly. In particular, the recent achievement of 40+ logical qubits and the introduction of new QLDPC error-correcting codes have significantly impacted the quantum computing community. 
+However, given the challenge of reducing the logical error rate, the realization of deterministic algorithms, such as phase estimation and quantum simulation, remains a distant goal.
+
+In light of this, I am convinced that contributions from the software side remain crucial for the early realization of quantum utility. 
+My current interests in this domain include (i) Building AI-aided near-term quantum algorithms, (ii) adapting long-term algorithms for current use, and (iii) improving error-correcting techniques for the near term.
+
+## (i) Building AI-aided near-term algorithms
+The variational quantum algorithm (VQA), executable in near-term devices, has significantly attracted attention when proposed a decade ago, but its scalability issues, such as the barren plateau issue, hinder its practical applications.
+
+I strongly believe that **utilizing the power of classical machine learning is the key to circumvent this situation**. To show the significance of this possibility, we have recently posted the paper: [url]. 
+In the paper, we propose the Generative Quantum Eigensolver (GQE) utilizing the generative model of quantum circuits 
+and its pre-trainable Transformer implementation (GPT-QE). Please check our paper for the details.
+
+## (ii) Making long-term algorithms more applicable in the near-term
+Reducing the number of gates required for long-term quantum algorithms is crucial not only for improving time complexity but also for enhancing their near-term applicability. In line with this, we have recently posted papers for [Hamiltonian simulation](https://arxiv.org/abs/2302.14811) and for [solving differential equations](https://arxiv.org/abs/2306.11802).
+
+## (iii) Improving error-correcting techniques for the near-term
+We have entered the era of practical error correction in quantum computing. The recent success of cold atom quantum computers, less restricted by connectivity, underscores the need to develop new error-correcting codes beyond the surface code, along with their decoders and computational methods. 
+With a focus on enhancing practicality, I am particularly interested in contributing to this field by employing AI methodologies.
+
+For the other activities, please see [blog](/blog/).

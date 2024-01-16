@@ -1,133 +1,153 @@
 [
 
 {
-"category": "jekyll, update",
-"title": "Welcome to Jekyll!",
-"description": "You’ll find this post in your _posts directory. Go ahead and edit it and re-b...",
-"url": "/blog/welcome-to-jekyll/",
-"image": "",
-"author": ""
+"category": "projects",
+"title": "Posted a paper - The generative quantum eigensolver (GQE) and its application for ground state search.",
+"description": "The variational quantum algorithm (VQA), executable in near-term devices, has...",
+"url": "/blog/gqe/",
+"image": "/assets/images/arxiv.png",
+"author": "Kouhei Nakaji"
 }
 ,
 
 {
 "category": "projects",
-"title": "Blackcurrant Jekyll Theme",
-"description": "Image Credits: Fruit LayerKouhei Nakaji is a Jekyll theme suitable for person...",
-"url": "/blog/blackcurrant/",
-"image": "/assets/images/blackcurrant.jpg",
-"author": "John Doe"
+"title": "Gave a seminar at the Institut Quantique in Sherbrooke.",
+"description": "I was invited as a seminar speaker at Institut Quantique in Sherbrooke.I gave...",
+"url": "/blog/quantique/",
+"image": "/assets/images/sherbrooke.JPEG",
+"author": "Kouhei Nakaji"
 }
 ,
 
 {
-"category": "life, experience",
-"title": "Trip to Italy!",
-"description": "As in other arts, the definitions of amateur and professional are not entirel...",
-"url": "/blog/trip-to-italy/",
-"image": "/assets/images/samuel-zeller-103112.jpg",
-"author": "John Doe"
+"category": "work, projects",
+"title": "Talked at a Banff conference - Mathematical Challenges in Adaptation of Quantum Chemistry to Quantum Computers.",
+"description": "I gave a presentation regarding our recent quantum computing research in the ...",
+"url": "/blog/banff-conference/",
+"image": "/assets/images/banff-img.png",
+"author": "Kouhei Nakaji"
 }
 ,
 
 {
 "category": "life, adventure",
-"title": "Nashville Graffity!",
-"description": "Campanula is one of several genera in the family Campanulaceae with the commo...",
-"url": "/blog/nashville-graffity/",
-"image": "/assets/images/katy-belcher-342066.jpg",
-"author": "John Doe"
+"title": "Posted a paper regarding the quantum algorithm to solve the differential equation.",
+"description": "We posted the paper on arXiv: https://arxiv.org/abs/2306.11802.The large cond...",
+"url": "/blog/differential-equation/",
+"image": "/assets/images/arxiv.png",
+"author": ""
+}
+,
+
+{
+"category": "life, adventure",
+"title": "Posted a paper regarding the quantum measurement optimization.",
+"description": "We posted the paper on arXiv: https://arxiv.org/abs/2305.02439.Estimating the...",
+"url": "/blog/measurement-optimization/",
+"image": "/assets/images/arxiv.png",
+"author": ""
+}
+,
+
+{
+"category": "life, adventure",
+"title": "Posted a paper regarding the expressive quantum machine learning with KPO.",
+"description": "We posted the paper on arXiv: https://arxiv.org/abs/2305.00688.Creating an ex...",
+"url": "/blog/expressive-ml/",
+"image": "/assets/images/arxiv.png",
+"author": ""
+}
+,
+
+{
+"category": "life, experience",
+"title": "Gave a seminar at Center for Quantum Technologies in National University of Singapore",
+"description": "I was invited to give a presentation at a machine learning seminar hosted by ...",
+"url": "/blog/singapore/",
+"image": "/assets/images/seminar.png",
+"author": ""
+}
+,
+
+{
+"category": "life, experience",
+"title": "Talked at the QRST seminar",
+"description": "I gave a presentation about our recent paper: https://arxiv.org/abs/2302.1481...",
+"url": "/blog/qrst/",
+"image": "/assets/images/seminar.png",
+"author": ""
+}
+,
+
+{
+"category": "life, experience",
+"title": "Posted a paper proposing a higher-order randomized algorithm for the Hamiltonian simulation",
+"description": "We posted the paper on arXiv: https://arxiv.org/abs/2302.14811. The first pap...",
+"url": "/blog/qswift/",
+"image": "/assets/images/arxiv.png",
+"author": ""
 }
 ,
 
 {
 "category": "life, work",
-"title": "Silver Surfer",
-"description": "Yoga is a group of physical, mental, and spiritual practices or disciplines w...",
-"url": "/blog/silver-surfer/",
-"image": "/assets/images/anastasia-hofmann-412116.jpg",
+"title": "Moved to Toronto and joined the Matter Lab (Prof. Alan Aspuru-Guzik group)",
+"description": "My family and I have moved to Toronto, where I’ve joined the Matter Lab (Prof...",
+"url": "/blog/u-of-t/",
+"image": "/assets/images/uoft.jpg",
 "author": "John Doe"
 }
 ,
 
 {
 "category": "life, travel",
-"title": "An ideal breakfast!",
-"description": "Goa is a state in India within the coastal region known as the Konkan in Indi...",
-"url": "/blog/ideal-breakfast/",
-"image": "/assets/images/maarten-van-den-heuvel-400626.jpg",
-"author": "John Doe"
-}
-,
-
-{
-"category": "work, projects",
-"title": "Designing a Flag",
-"description": "Learning is the act of acquiring new or modifying and reinforcing existing kn...",
-"url": "/blog/designing-a-flag/",
-"image": "/assets/images/shubham-beeharry-223969.jpg",
-"author": "John Doe"
-}
-
-,
-
-
-{
-"category": "",
-"title": "Typical Project 1",
-"description": "Sed eget tempor eros. Nam laoreet venenatis efficitur. Etiam sit amet dapibus...",
-"url": "/projects/project-4/",
-"image": "/assets/images/samuel-zeller-72120-unsplash.jpg",
+"title": "Posted a paper regarding random features for the quantum kernel method",
+"description": "We posted the paper on arXiv: https://arxiv.org/abs/2209.01958.We propose the...",
+"url": "/blog/rf/",
+"image": "/assets/images/arxiv.png",
 "author": ""
 }
 ,
 
 {
-"category": "",
-"title": "Typical Project 2",
-"description": "Sed eget tempor eros. Nam laoreet venenatis efficitur. Etiam sit amet dapibus...",
-"url": "/projects/project-5/",
-"image": "/assets/images/nishant-parikh-342424-unsplash.jpg",
+"category": "life, travel",
+"title": "Posted a paper regarding the measurement optimization in the variational time evolution.",
+"description": "We posted a paper on arXiv, accessible here: https://arxiv.org/abs/2208.13934...",
+"url": "/blog/mo-vqs/",
+"image": "/assets/images/arxiv.png",
 "author": ""
 }
 ,
 
 {
-"category": "",
-"title": "Typical Project 3",
-"description": "Sed eget tempor eros. Nam laoreet venenatis efficitur. Etiam sit amet dapibus...",
-"url": "/projects/project-6/",
-"image": "/assets/images/henry-co-481270-unsplash.jpg",
+"category": "life, travel",
+"title": "Posted a paper regarding the solution to the over-fitting problem in quantum machine learning.",
+"description": "We have posted a paper on arXiv, which can be accessed here: https://arxiv.or...",
+"url": "/blog/over-fitting/",
+"image": "/assets/images/arxiv.png",
 "author": ""
 }
 ,
 
 {
+"category": "life, travel",
+"title": "Received my Ph.D.",
+"description": "I have recently received my Ph.D. in quantum computing, culminating my two-ye...",
+"url": "/blog/phd/",
+"image": "/assets/images/phd.png",
+"author": ""
+}
+
+,
+
+
+{
 "category": "",
-"title": "Design",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia erat e...",
+"title": "Quantum computing",
+"description": "",
 "url": "/projects/design/",
-"image": "/assets/images/etienne-girardet-360034-unsplash.jpg",
-"author": ""
-}
-,
-
-{
-"category": "",
-"title": "Minimalist",
-"description": "Aliquam egestas ante vel urna tempor, ut posuere diam efficitur. Lorem ipsum ...",
-"url": "/projects/minimalist/",
-"image": "/assets/images/bogdan-dada-111692-unsplash.jpg",
-"author": ""
-}
-,
-
-{
-"category": "",
-"title": "Typography",
-"description": "Sed eget tempor eros. Nam laoreet venenatis efficitur. Etiam sit amet dapibus...",
-"url": "/projects/typography/",
-"image": "/assets/images/w-349443-unsplash.jpg",
+"image": "",
 "author": ""
 }
 

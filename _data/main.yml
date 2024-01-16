@@ -2,8 +2,8 @@
 
 image: /assets/images/author-image.jpg
 name: Kouhei Nakaji Ph.D.
-profession: Researcher/Developer
-email: john@doe.com # The contact form submissions will be received in this email address.
+profession: Quantum computing/AI
+email: kohei.nakaji@utoronto.ca # The contact form submissions will be received in this email address.
 
 #   ,-----.       ,--.                   ,---.  ,--.
 #  '  .--./ ,---. |  | ,---. ,--.--.    '   .-' |  ,---.  ,---. ,--,--,--. ,---.
@@ -29,15 +29,11 @@ color-scheme-changer-widget: false
 # Menu items in the sidebar
 # Use a maximum of 3 items
 menu:
-  - title: Projects
-    link: /projects/
+  - title: Home
+    link: /
 
   - title: Blog
     link: /blog/
-
-  - title: Contact
-    link: /contact/
-
 
 
 # Social icons in the sidebar
@@ -48,8 +44,8 @@ social:
       link: https://twitter.com/nakajijiji
 
   linkedin:
-      icon: fa-linkedin
-      link: https://www.linkedin.com/in/kouhei-n-95a90683/
+      icon: fa-google
+      link: https://scholar.google.ca/citations?user=y2w4YfAAAAAJ&hl=ja&oi=ao
 
   github:
       icon: fa-github

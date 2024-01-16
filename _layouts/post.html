@@ -15,9 +15,6 @@ This layout is used for posts. Changing anything here will affect all posts(not 
         <i class="fa fa-calendar" aria-hidden="true"></i> {{page.date |
         date_to_string }}&nbsp;
       </span>
-      <span>
-        <i class="fa fa-user" aria-hidden="true"></i> {{page.author }}&nbsp;
-      </span>
 
       <span>
         <i class="fa fa-clock-o" aria-hidden="true"></i> {% include
@@ -26,12 +23,13 @@ This layout is used for posts. Changing anything here will affect all posts(not 
     </small>
   </p>
 </div>
-
+{% if page.show %}
 <div
   class="featured-image rounded shadow"
   style="background-image: url({{page.image | relative_url }})"
   data-aos="zoom-in"
 ></div>
+{% endif %}
 
 <div class="container">
   <article>
