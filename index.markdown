@@ -13,6 +13,7 @@ I possess strong expertise in machine learning engineering as well, backed by ov
 
 
 # My recent researches
+**I have strong interests in near-term realization of practical quantum computing applications.**
 Quantum computing devices have been developed rapidly. In particular, the recent achievement of 40+ logical qubits and the introduction of new QLDPC error-correcting codes have significantly impacted the quantum computing community. 
 However, given the challenge of reducing the logical error rate, the realization of deterministic algorithms, such as phase estimation and quantum simulation, remains a distant goal.
 
