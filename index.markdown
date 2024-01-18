@@ -23,9 +23,9 @@ My current interests in this domain include (i) Building AI-aided near-term quan
 ## (i) Building AI-aided near-term algorithms
 The variational quantum algorithm (VQA), executable in near-term devices, has significantly attracted attention when proposed a decade ago, but its scalability issues, such as the barren plateau issue, hinder its practical applications.
 
-I strongly believe that **utilizing the power of classical machine learning is the key to circumvent this situation**. To show the significance of this possibility, we have recently posted the paper: [url]. 
-In the paper, we propose the Generative Quantum Eigensolver (GQE) utilizing the generative model of quantum circuits 
-and its pre-trainable Transformer implementation (GPT-QE). Please check our paper for the details.
+I strongly believe that **utilizing the power of classical machine learning is the key to circumvent this situation**. To show the significance of this possibility, we have recently posted the paper: https://arxiv.org/abs/2401.09253. 
+
+In the paper, we propose the Generative Quantum Eigensolver (GQE) utilizing the generative model of quantum circuits and its pre-trainable Transformer implementation (GPT-QE). Please check our paper for the details.
 
 ## (ii) Adapting long-term algorithms for more near-term use
 Reducing the number of gates required for long-term quantum algorithms is crucial not only for improving time complexity but also for enhancing their near-term applicability. In line with this, we have recently posted papers for [Hamiltonian simulation](https://arxiv.org/abs/2302.14811) and for [solving differential equations](https://arxiv.org/abs/2306.11802).
