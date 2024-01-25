@@ -1,5 +1,5 @@
 ---
-title: Research project management
+title: Designing a regular meeting with Notion
 image: /assets/images/notion.png
 categories:
     - life
