@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Biography
-I am a postdoctoral researcher at the University of Toronto's Matter Lab (Alan Aspuru-Guzik group), specializing in quantum computing and its applications. 
+I am a Senior Quantum Appplied Research Scientist in NVIDIA Inc. Previously I was a postdoctoral researcher at the University of Toronto's Matter Lab (Alan Aspuru-Guzik group), specializing in quantum computing and its applications. 
 I began my researcher career at Keio University and the Keio Quantum Computing Center in 2020, subsequently earning my Ph.D. in 2022. 
 I possess strong expertise in machine learning engineering as well, backed by over five years of experience in the industry prior to my academic career.
 
@@ -28,7 +28,7 @@ I strongly believe that **utilizing the power of classical machine learning is t
 In the paper, we propose the Generative Quantum Eigensolver (GQE) utilizing the generative model of quantum circuits and its pre-trainable Transformer implementation (GPT-QE). Please check our paper for the details.
 
 ## (ii) Adapting long-term algorithms for more near-term use
-Reducing the number of gates required for long-term quantum algorithms is crucial not only for improving time complexity but also for enhancing their near-term applicability. In line with this, we have recently posted papers for [Hamiltonian simulation](https://arxiv.org/abs/2302.14811) and for [solving differential equations](https://arxiv.org/abs/2306.11802).
+Reducing the number of gates required for long-term quantum algorithms is crucial not only for improving time complexity but also for enhancing their near-term applicability. In line with this, we have recently posted papers for Hamiltonian simulation [PRX Quantum 5, 020330](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.020330) and for [solving differential equations [https://arxiv.org/abs/2306.11802](https://arxiv.org/abs/2306.11802).
 
 ## (iii) Improving error-correcting techniques for the near-term
 We have entered the era of practical error correction in quantum computing. The recent success of cold atom quantum computers, less restricted by connectivity, underscores the need to develop new error-correcting codes beyond the surface code, along with their decoders and computational methods. 
