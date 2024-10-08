@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Biography
-I work as a Senior Quantum Appplied Research Scientist in NVIDIA Inc. Previously I was a postdoctoral researcher at the University of Toronto's Matter Lab (Alan Aspuru-Guzik group), specializing in quantum computing and its applications. 
+I work as a Senior Quantum Applied Research Scientist in NVIDIA Inc. Previously I was a postdoctoral researcher at the University of Toronto's Matter Lab (Alan Aspuru-Guzik group), specializing in quantum computing and its applications. 
 I began my researcher career at Keio University and the Keio Quantum Computing Center in 2020, subsequently earning my Ph.D. in 2022. 
 I possess strong expertise in machine learning engineering as well, backed by over five years of experience in the industry prior to my academic career.
 
